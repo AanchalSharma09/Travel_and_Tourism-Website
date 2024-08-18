@@ -11,9 +11,13 @@ User-Friendly Interface: Easy navigation with a clean and simple layout for bett
 
 
 Built With:
+
 HTML5: For structuring the web content.
+
 CSS3: For styling and enhancing the look and feel of the website.
+
 Bootstrap 5: For creating a responsive and mobile-first design with minimal effort.
+
 Getting Started
 Prerequisites
 To run this project locally, you'll need:
@@ -25,10 +29,16 @@ Project Structure:
 
 
 index.html: The main landing page of the website.
+
 css/: Contains the custom stylesheets for the website.
+
 bootstrap/: Contains the Bootstrap framework files.
+
 images/: Stores all images used on the site.
+
+
 Contributing
+
 Feel free to contribute to this project by forking the repository, making changes, and submitting a pull request.
 
 License
