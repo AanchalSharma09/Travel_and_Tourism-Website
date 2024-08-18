@@ -7,8 +7,10 @@ Responsive Design: Built with Bootstrap to ensure optimal viewing and interactio
 Destination Highlights: Featuring popular travel destinations with beautiful images and detailed descriptions.
 Travel Tips: Providing valuable travel information, including packing lists, safety advice, and budget tips.
 User-Friendly Interface: Easy navigation with a clean and simple layout for better user experience.
-Built With:
 
+
+
+Built With:
 HTML5: For structuring the web content.
 CSS3: For styling and enhancing the look and feel of the website.
 Bootstrap 5: For creating a responsive and mobile-first design with minimal effort.
