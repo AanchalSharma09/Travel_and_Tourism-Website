@@ -3,10 +3,17 @@ Welcome to the Travel and Tourism website! This project is a dynamic, responsive
 
 Features
 
-Responsive Design: Built with Bootstrap to ensure optimal viewing and interaction experience across all devices—desktops, tablets, and smartphones.
-Destination Highlights: Featuring popular travel destinations with beautiful images and detailed descriptions.
-Travel Tips: Providing valuable travel information, including packing lists, safety advice, and budget tips.
-User-Friendly Interface: Easy navigation with a clean and simple layout for better user experience.
+Responsive Design:
+Built with Bootstrap to ensure optimal viewing and interaction experience across all devices—desktops, tablets, and smartphones.
+
+Destination Highlights:
+Featuring popular travel destinations with beautiful images and detailed descriptions.
+
+Travel Tips:
+Providing valuable travel information, including packing lists, safety advice, and budget tips.
+
+User-Friendly Interface:
+Easy navigation with a clean and simple layout for better user experience.
 
 
 
